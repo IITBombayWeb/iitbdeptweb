@@ -18,8 +18,8 @@
     "drupal/migrate_plus": "~5.1",
     "drupal/migrate_source_csv": "~3.4",
     "drupal/migrate_file": "~2.0",
-    "drupal/slick": "~2.2",
-    "drupal/slick_views": "~2.3",
+    "drupal/slick": "2.6",
+    "drupal/slick_views": "2.6",
     "drupal/slick_extras": "~1.0",
     "drupal/libraries": "~3.0",
     "drupal/ds": "~3.1",
@@ -46,8 +46,8 @@
     "drupal/config_merge_filter": "~1.0",
     "drupal/config_distro_ignore": "~1.0",
     "drupal/config_update_ui": "~1.6",
-    "bower-asset/slick-carousel": "~1.0",
-    "npm-asset/blazy": "~1.0",
+    "bower-asset/slick-carousel": "1.8.0",
+    "npm-asset/blazy": "1.8.0",
     "npm-asset/datatables": "1.9.4",
     "drupal/imagemagick": "^3.0",
     "drupal/pdfpreview": "^1.0",
@@ -60,7 +60,8 @@
     "drupal/config_delete": "~1.17",
     "drupal/captcha": "~1.2",
     "npm-asset/cropper": "~4.1.0",
-    "npm-asset/jquery-ui-touch-punch": "~0.2"
+    "npm-asset/jquery-ui-touch-punch": "~0.2",
+    "drupal/blazy": "2.5"
   },
   "extra": {
     "installer-paths": {
